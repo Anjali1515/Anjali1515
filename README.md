@@ -104,7 +104,6 @@ An image-based application combining encryption and steganography.
 ## 🟡 `05` — Current Focus
 
 - 🔍 Strengthening cybersecurity fundamentals
-- 🐍 Practising Python and scripting
 - 🛡️ Learning vulnerability assessment and defensive security
 - 📂 Improving project documentation and practical demonstrations
 
