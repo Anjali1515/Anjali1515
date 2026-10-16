@@ -1,73 +1,120 @@
-## Hi there 👋
 
-# Anjali Arora
+<div align="center">
 
-### Cybersecurity | Digital Forensics | Cloud Security
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:064E3B,100:00FF9C&height=190&section=header&text=ANJALI%20ARORA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20DIGITAL%20FORENSICS%20%7C%20CLOUD&descSize=13&descAlignY=60&animation=fadeIn" width="100%" />
 
-Computer Science student specializing in Cyber Security and Digital Forensics, interested in identifying vulnerabilities, analyzing digital evidence, and building secure applications.
+<a href="https://github.com/Anjali1515">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Digital+Forensics;Learning+to+detect%2C+analyze+%26+secure;Building+practical+security+projects" alt="Typing introduction" />
+</a>
 
-I enjoy learning through hands-on projects and applying cybersecurity concepts to practical problems.
+**Computer Science Student | Cybersecurity Enthusiast**
 
----
+[GitHub](https://github.com/Anjali1515) · [LinkedIn](https://www.linkedin.com/) · [Portfolio](#)
 
-## Technical Skills
-
-**Programming:** Java, Python, SQL, HTML, CSS, JavaScript
-
-**Cybersecurity:** Vulnerability Management, Digital Forensics, Threat Analysis, Incident Response, Network Security, SIEM
-
-**Cloud:** AWS, Cloud Security Fundamentals
+</div>
 
 ---
 
-## Featured Projects
+```text
+anjali@security-lab:~$ whoami
 
-### 1. Digital Forensics File Analyzer
+Name       : Anjali Arora
+Focus      : Cybersecurity & Digital Forensics
+Interests  : Vulnerability Management, Network Security
+Cloud      : AWS Fundamentals
+Mission    : Learn by building practical security projects
+Status     : Open to learning and cybersecurity opportunities
+```
 
-A Python-based forensic utility designed to inspect files and support basic digital evidence analysis.
+## `01` — About Me
 
-- Extracts file metadata, including file type and timestamps.
-- Generates SHA-256 hashes to help verify file integrity.
-- Helps identify suspicious file characteristics.
+I'm a Computer Science student specializing in **Cyber Security and Digital Forensics** at Vellore Institute of Technology.
 
-**Technologies:** Python, File Metadata, SHA-256
+- 🔐 Interested in cybersecurity, digital forensics and defensive security.
+- 🧪 Building projects focused on file analysis, cryptography and steganography.
+- ☁️ Learning cloud security and network security fundamentals.
+- 🎯 Preparing for opportunities in cybersecurity and security operations.
 
+## `02` — Featured Projects
 
-### 2. SecureImage — Cryptography & Steganography
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A project exploring how encryption and image steganography can be combined to protect sensitive messages.
+### 🔎 Digital Forensics File Analyzer
 
-- Uses AES encryption to protect message confidentiality.
-- Uses Least Significant Bit (LSB) steganography to hide encrypted data inside images.
-- Supports extracting hidden data and decrypting the message.
+A Python-based project focused on examining digital files and supporting forensic analysis.
 
-**Technologies:** Python, AES, LSB Steganography, Image Processing
+- File metadata inspection
+- Cryptographic hashing
+- Suspicious file characteristic checks
 
-Repository: https://github.com/Anjali1515/SecureimageWeb-main
+**Tech:** Python
+
+[View project →](https://github.com/Anjali1515)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 SecureImage
+
+An image-based project combining cryptography and steganography concepts.
+
+- AES-based message encryption
+- Least Significant Bit (LSB) steganography
+- Hidden-message extraction and decryption workflow
+
+**Tech:** Python · FastAPI · React
+
+[View repository →](https://github.com/Anjali1515/SecureimageWeb-main)
+
+</td>
+</tr>
+</table>
+
+## `03` — Technical Skills
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" alt="Java, Python, JavaScript, HTML, CSS and MySQL" />
+
+**Cloud & Development**
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" alt="AWS, Git, GitHub, Linux and VS Code" />
+
+</div>
+
+**Cybersecurity concepts**
+
+`Digital Forensics` · `Vulnerability Management` · `Incident Response` · `Network Security` · `SIEM` · `Patch Management` · `Security Monitoring`
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Anjali1515&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=9CA3AF" alt="GitHub statistics" />
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali1515&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C&text_color=9CA3AF" alt="Most-used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali1515&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak" />
+
+</div>
+
+## `05` — Current Focus
+
+- Strengthening cybersecurity fundamentals.
+- Improving Python and scripting skills.
+- Documenting projects with clear setup instructions and examples.
+- Practicing security analysis in controlled environments.
 
 ---
 
-## Experience
+<div align="center">
 
-**Cybersecurity Intern — Happiest Minds Technologies**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,100:064E3B&height=55&section=footer&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE&fontColor=00FF9C&fontSize=16" width="100%" />
 
-Exposure to threat and vulnerability management, security findings analysis, severity assessment, and remediation workflows.
+<sub>Building practical skills, one project at a time.</sub>
 
-**Cybersecurity Intern — Viatris**
-
-Exposure to enterprise cybersecurity practices, vulnerability management, networking, cloud fundamentals, and security controls.
-
----
-
-## Certifications
-
-- AWS Certified Solutions Architect
-- Hackviser Certified Cybersecurity Foundations
-- Cisco — Introduction to Cybersecurity
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/Anjali1515
-- LinkedIn: https://linkedin.com/in/anjali-arora-64436b28a
+</div>
